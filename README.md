@@ -2,10 +2,11 @@
 This repository created with Google Colab for analyzing a dataset of space missions. The dataset was scraped from nextspaceflight.com and includes information about space missions since the beginning of the Space Race in 1957.The dataset spans from the beginning of the Space Race in 1957 to the present day and covers various aspects of space missions, including launch details, organizations involved, mission status, and more.
 
 ## Technology Used
-- Bar
-- Histogram
-- Choropleth Map
-- Plotly Sunburst Chart 
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- iso3166 
 
 
 ## Getting Started
